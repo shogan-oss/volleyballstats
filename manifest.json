@@ -1,0 +1,9 @@
+
+{
+  "name": "Volleyball Stats Pro",
+  "short_name": "VBStats",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#000000",
+  "theme_color": "#1D3557"
+}
